@@ -367,6 +367,10 @@
     .hero-text {
       font-size: 150px;
     }
+    .hero-image {
+      flex: 1;
+      margin: 0;
+    }  
 
     .product-text h3 {
       font-size: 5rem;
