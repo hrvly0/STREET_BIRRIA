@@ -1,20 +1,20 @@
-# STREET BIRRIA 🌮
+# STRTBRRIA 🌮
 
-This is the official repository for the STREET BIRRIA website.
+This is the GitHub repo for the STRTBRRIA website — a simple street food-style site built with HTML and CSS.
 
 🔗 **Live Website:**  
-[https://hrvly0.github.io/STREET_BIRRIA](https://hrvly0.github.io/STREET_BIRRIA)
+[https://hrvly0.github.io/strtbrria/](https://hrvly0.github.io/strtbrria/)
 
 ---
 
 ## What's Inside
 
-- `index.html` – Main homepage
-- `style.css` – Site styles
-- `images/` – Logo and photos
+- `index.html` – Main homepage  
+- `style.css` – Stylesheet  
+- `images/` – Logos, photos, and assets
 
 ---
 
-## How to View Locally
+## View Locally
 
 1. Clone the repo:
