@@ -15,6 +15,3 @@ This is the GitHub repo for the STRTBRRIA website — a simple street food-style
 
 ---
 
-## View Locally
-
-1. Clone the repo:
