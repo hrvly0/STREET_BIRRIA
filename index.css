@@ -740,11 +740,11 @@
 
   @media screen and (min-width: 992px) {
     .hero-text {
-      font-size: 150px;
+      font-size: 7rem;
     }
     .hero-image {
         width: 100%;
-        max-width: 800px;
+        max-width: 500px;
       flex: 1;
       margin: 0;
     }
