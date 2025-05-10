@@ -306,6 +306,7 @@
       flex: 1;
       margin: 0;
     }
+
     .marquee-section {
       height: 120px;
     }
@@ -368,12 +369,8 @@
     .hero-text {
       font-size: 150px;
     }
-    .hero-image {
-        width: 100%;
-        max-width: 800px;
-      flex: 1;
-      margin: 0;
-    } 
+
+
 
     .product-text h3 {
       font-size: 5rem;
@@ -382,6 +379,7 @@
     .stall-info h3 {
       font-size: 5rem;
     }
+
   }
 
   @media screen and (max-width: 767px) {
