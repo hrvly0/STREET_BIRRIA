@@ -390,6 +390,12 @@
     .desktop-nav {
       display: none;
     }
+    .hero-text {
+      font-size: 2.2rem;
+      word-wrap: break-word;
+      word-break: break-word;
+      padding: 0 10px;
+    }
 
     .header-container {
       justify-content: space-between;
